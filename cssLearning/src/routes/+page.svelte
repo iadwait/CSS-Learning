@@ -36,3 +36,8 @@
     click here
 </button>
 <p>------------------------------</p>
+<h2>Flexbox Layout -> Sidebar + Main Content</h2>
+<button on:click={() => goto('/flexboxLayout')}>
+    click here
+</button>
+<p>------------------------------</p>
