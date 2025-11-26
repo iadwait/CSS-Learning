@@ -41,3 +41,8 @@
     click here
 </button>
 <p>------------------------------</p>
+<h2>Pricing Card UI</h2>
+<button on:click={() => goto('/pricingCard')}>
+    click here
+</button>
+<p>------------------------------</p>
